@@ -17,9 +17,9 @@ ace_fee = 0.1 / 100  # 0.1% trading fee
 coinbase_fee = 0.5 / 100  # 0.5% trading fee
 
 # Secure Email Configuration (Use App Password, NOT your real password!)
-EMAIL_ADDRESS = "sarkardiganta40@gmail.com"
+EMAIL_ADDRESS = "your-email@gmail.com"
 EMAIL_PASSWORD = "your-app-password"  # Update with new App Password
-RECIPIENT_EMAIL = "sarkardiganta40@gmail.com"
+RECIPIENT_EMAIL = "your-email@gmail.com"
 
 # Track last arbitrage state to avoid duplicate emails
 last_sent_status = None
